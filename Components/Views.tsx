@@ -1,5 +1,5 @@
 import "../block.css";
-
+import React from 'react'
 let Views = {
   Text({ props }) {
     return <div className="max-h-24 overflow-hidden">{props.value}</div>;
