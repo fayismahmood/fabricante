@@ -1,6 +1,5 @@
 import functions from "../functions";
-import parse from "json-templates";
-import { useAtom } from "jotai";
+
 
 function setState(setter) {  
   return (key, value) => {
