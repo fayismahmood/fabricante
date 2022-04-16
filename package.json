@@ -6,6 +6,10 @@
   "scripts": {
     "tailwind":"tailwindcss -i style.css -o block.css -w "
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fayismahmood/fabricante"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {
